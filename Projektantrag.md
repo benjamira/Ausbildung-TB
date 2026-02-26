@@ -19,6 +19,11 @@ Vorgaben IHK:
 - Nicht zu detailliert, nicht zu knapp
   
 <img width="869" height="344" alt="grafik" src="https://github.com/user-attachments/assets/dbf45b96-9c59-4896-a06a-ae5d267c0c12" />
+
+- Zeitraum ausreichend groß wählen
+- Realistischer Zeitraum innerhalb der Prüfungszeit
+- Feiertage beachten!
+  
 <img width="869" height="340" alt="grafik" src="https://github.com/user-attachments/assets/8a98fadc-c863-412f-91ea-1615548f6b22" />
 <img width="869" height="337" alt="grafik" src="https://github.com/user-attachments/assets/caadabde-c3f8-4d41-b2cd-ae7a3c63427c" />
 <img width="869" height="340" alt="grafik" src="https://github.com/user-attachments/assets/9d34efbb-b250-435e-925e-4c0979679c5d" />
