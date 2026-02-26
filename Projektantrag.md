@@ -18,12 +18,14 @@ Vorgaben IHK:
 
 - Kurz und prägnant, keine Beschreibung der einzelnen Tätigkeiten
 - Nicht zu detailliert, nicht zu knapp
+- Thema = Titel! Also keine ganzen Sätze, sondern eine möglichst aussagekräftige "Überschrift" deiner Arbeit
   
 <img width="869" height="344" alt="grafik" src="https://github.com/user-attachments/assets/dbf45b96-9c59-4896-a06a-ae5d267c0c12" />
 
 - Zeitraum ausreichend groß wählen
 - Realistischer Zeitraum innerhalb der Prüfungszeit
 - Feiertage beachten!
+- Wichtig: Der Zeitraum kann auch größer sein als 80 Stunden ( = 2 Arbeitswochen)!
   
 <img width="869" height="340" alt="grafik" src="https://github.com/user-attachments/assets/8a98fadc-c863-412f-91ea-1615548f6b22" />
 
@@ -33,6 +35,7 @@ Vorgaben IHK:
 - Problematik darstellen
 - Projektumfeld darstellen
 - Nennung des Projektauftraggebers und der Probleme, die der Auftraggeber mit der akt. Situation hat, die durch das Projekt verbessert werden soll
+- Wichtig: Firmeninterne Abkürzungen erklären! Formuliert die Darstellung der Firma und der Aufgaben so, dass ein firmenfremder sie trotzdem versteht!
 
   
 <img width="869" height="337" alt="grafik" src="https://github.com/user-attachments/assets/caadabde-c3f8-4d41-b2cd-ae7a3c63427c" />
@@ -64,6 +67,10 @@ Vorgaben IHK:
 
 
 <img width="869" height="340" alt="grafik" src="https://github.com/user-attachments/assets/31874e20-903f-4c13-a51a-c0f9532abd6a" />
+
+- Ggf. erste Konzeptbilder, sonst eintragen: "Keine Anlagen"
+
+  
 <img width="869" height="340" alt="grafik" src="https://github.com/user-attachments/assets/e795f3b0-e02a-4daa-8617-1ae8be4ac3e2" />
 
 - Laptop & Beamer, Presenter
