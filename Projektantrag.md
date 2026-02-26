@@ -1,6 +1,6 @@
 §12 FIAusbV: 
 
-*(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, 
+*(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,*
 1. kundenspezifische Anforderungen zu analysieren,
 2. eine Projektplanung durchzuführen,
 3. eine wirtschaftliche Betrachtung des Projektes vorzunehmen,
