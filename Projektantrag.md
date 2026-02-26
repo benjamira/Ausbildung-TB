@@ -64,4 +64,10 @@ Vorgaben IHK:
 
 <img width="869" height="340" alt="grafik" src="https://github.com/user-attachments/assets/31874e20-903f-4c13-a51a-c0f9532abd6a" />
 <img width="869" height="340" alt="grafik" src="https://github.com/user-attachments/assets/e795f3b0-e02a-4daa-8617-1ae8be4ac3e2" />
+
+- Laptop & Beamer, Presenter
+- Whiteboard wenn nötig
+- Gerne auch Anschlüsse (HDMI, DP, …) nennen!
+
+  
 <img width="869" height="472" alt="grafik" src="https://github.com/user-attachments/assets/1d000ca8-ea67-4cb9-8236-aadeac3cab94" />
