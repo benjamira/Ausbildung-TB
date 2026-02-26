@@ -14,6 +14,7 @@ Vorgaben IHK:
 - Entwickeln eines Pflichtenheftes einschließlich Analyse kundenspezifischer Anforderungen, Schnittstellen-betrachtung und Planung der Einführung.
 
 <img width="869" height="352" alt="grafik" src="https://github.com/user-attachments/assets/88e8418e-06a4-48c0-920a-c5571152c471" />
+
 - Kurz und prägnant, keine Beschreibung der einzelnen Tätigkeiten
 - Nicht zu detailliert, nicht zu knapp
   
