@@ -25,8 +25,43 @@ Vorgaben IHK:
 - Feiertage beachten!
   
 <img width="869" height="340" alt="grafik" src="https://github.com/user-attachments/assets/8a98fadc-c863-412f-91ea-1615548f6b22" />
+
+- Kurze Darstellung der Firma und deren Aufgaben/Kunden
+- Kurze Darstellung der Abteilung und deren Aufgaben, in denen das Projekt durchgeführt wird
+- Ist-Situation darstellen
+- Problematik darstellen
+- Projektumfeld darstellen
+- Nennung des Projektauftraggebers und der Probleme, die der Auftraggeber mit der akt. Situation hat, die durch das Projekt verbessert werden soll
+
+  
 <img width="869" height="337" alt="grafik" src="https://github.com/user-attachments/assets/caadabde-c3f8-4d41-b2cd-ae7a3c63427c" />
+
+- Zielzustand und die dafür notwendigen Tätigkeiten darstellen
+- Was ist schon vorhanden? Auf was wird aufgebaut? Was wird (von wem?) neu implementiert?
+- Auch Produktauswahlprozess und Wirtschaftlichkeitsanalyse mit reinnehmen
+- Klare Nennung von Fremd- und Eigenleistungen
+- Verwendete Technologien/Sprachen nennen
+- Achtung: Projektziel und –Inhalte sollten realistisch in 80 Stunden erreichbar sein.
+- Klar erkennbar: Wer ist Auftraggeber, wer ist Kunde, was ist der Kundenmehrwert
+
+
 <img width="869" height="340" alt="grafik" src="https://github.com/user-attachments/assets/9d34efbb-b250-435e-925e-4c0979679c5d" />
+
+- Summe 80 Stunden
+- Projektphasen (mit Nennung der erforderlichen Stunden):
+-- Vorbereitung, Anforderungsanalyse, Projektplanung
+-- Design und Architektur, Konzeptionierung
+-- Implementierung
+-- Test und Debugging
+-- Übergabe, Release, Wartung
+-- Dokumentation
+- IHK-Projektdoku max. 15% = 12 Stunden, aber realistische Zeit
+- Inhalte mit > 15 Stunden nochmal einen Detailgrad runterbrechen
+- Die Stunden der einzelnen Phasen nochmal sorgfältig zusammenzählen und darauf achten, dass es wirklich in Summe 80 Stunden sind!
+- Auch hier Wirtschaftlichkeitsanalyse mit reinnehmen.
+- Lessons Learned, Persönliches Fazit, Ausblick
+
+
 <img width="869" height="340" alt="grafik" src="https://github.com/user-attachments/assets/31874e20-903f-4c13-a51a-c0f9532abd6a" />
 <img width="869" height="340" alt="grafik" src="https://github.com/user-attachments/assets/e795f3b0-e02a-4daa-8617-1ae8be4ac3e2" />
 <img width="869" height="472" alt="grafik" src="https://github.com/user-attachments/assets/1d000ca8-ea67-4cb9-8236-aadeac3cab94" />
