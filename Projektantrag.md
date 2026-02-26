@@ -49,12 +49,12 @@ Vorgaben IHK:
 
 - Summe 80 Stunden
 - Projektphasen (mit Nennung der erforderlichen Stunden):
--- Vorbereitung, Anforderungsanalyse, Projektplanung
--- Design und Architektur, Konzeptionierung
--- Implementierung
--- Test und Debugging
--- Übergabe, Release, Wartung
--- Dokumentation
+  - Vorbereitung, Anforderungsanalyse, Projektplanung
+  - Design und Architektur, Konzeptionierung
+  - Implementierung
+  - Test und Debugging
+  - Übergabe, Release, Wartung
+  - Dokumentation
 - IHK-Projektdoku max. 15% = 12 Stunden, aber realistische Zeit
 - Inhalte mit > 15 Stunden nochmal einen Detailgrad runterbrechen
 - Die Stunden der einzelnen Phasen nochmal sorgfältig zusammenzählen und darauf achten, dass es wirklich in Summe 80 Stunden sind!
