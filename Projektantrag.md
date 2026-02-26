@@ -6,7 +6,7 @@
 3. eine wirtschaftliche Betrachtung des Projektes vorzunehmen,
 4. eine Softwareanwendung zu erstellen oder anzupassen,
 5. die erstellte oder angepasste Softwareanwendung zu testen und ihre Einführung vorzubereiten und
-6. die Planung und Durchführung des Projektes anforderungsgerecht zu dokumentieren.
+6. die Planung und Durchführung des Projektes anforderungsgerecht zu dokumentieren.*
 
 Der Prüfling hat eine betriebliche Projektarbeit durchzuführen und mit praxisbezogenen Unterlagen zu dokumentieren. Vor der Durchführung der betrieblichen Projektarbeit hat er dem Prüfungsausschuss eine Projektbeschreibung zur Genehmigung vorzulegen. In der Projektbeschreibung hat er die Ausgangssituation und das Projektziel zu beschreiben und eine Zeitplanung aufzustellen. Die Prüfungszeit beträgt für die betriebliche Projektarbeit und für die Dokumentation mit praxisbezogenen Unterlagen höchstens 80 Stunden.*
 
