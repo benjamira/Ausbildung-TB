@@ -1,3 +1,4 @@
+# Installation Docker
 sudo apt update
 sudo apt upgrade
 sudo apt autoremove
@@ -16,3 +17,7 @@ sudo systemctl start docker
 sudo usermod -aG docker $USER
 newgrp docker
 docker run hello-world
+
+# Spielen mit Containern
+docker run hello-world
+docker run nginx
