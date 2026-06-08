@@ -1,9 +1,11 @@
 # Installation Docker
+```
 sudo apt update
 sudo apt upgrade
 sudo apt autoremove
 sudo dpkg-reconfigure locales
 sudo apt install locales-all
+```
 
 sudo apt install -y ca-certificates curl gnupg
 sudo install -m 0755 -d /etc/apt/keyrings
