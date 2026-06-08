@@ -6,7 +6,7 @@ sudo apt autoremove
 sudo dpkg-reconfigure locales
 sudo apt install locales-all
 ```
-
+```
 sudo apt install -y ca-certificates curl gnupg
 sudo install -m 0755 -d /etc/apt/keyrings
 curl -fsSL https://download.docker.com/linux/debian/gpg | sudo tee /etc/apt/keyrings/docker.asc > /dev/null
@@ -19,7 +19,10 @@ sudo systemctl start docker
 sudo usermod -aG docker $USER
 newgrp docker
 docker run hello-world
+```
 
 # Spielen mit Containern
+```
 docker run hello-world
 docker run nginx
+```
