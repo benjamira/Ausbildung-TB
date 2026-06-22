@@ -100,108 +100,6 @@ services:
       - ./logs:/logs
 ```
 
-### 3-Tier Web-App
-Aufbau:
-```
-projekt/
-│
-├── compose.yaml
-│
-├── nginx/
-│   └── default.conf
-│
-├── web/
-│   ├── index.php
-│   └── style.css
-│
-└── db/
-``
-```
-```
-services:
-  nginx:
-    image: nginx:latest
-    ports:
-      - "8080:80"
-    volumes:
-      - ./web:/var/www/html
-      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
-    depends_on:
-      - app
-
-  app:
-    image: php:8.2-fpm
-    volumes:
-      - ./web:/var/www/html
-
-  db:
-    image: mariadb:latest
-    environment:
-      MYSQL_ROOT_PASSWORD: geheim
-      MYSQL_DATABASE: workshop
-    volumes:
-      - dbdata:/var/lib/mysql
-
-volumes:
-  dbdata:
-```
-nginx/default.conf:
-```
-server {
-    listen 80;
-
-    root /var/www/html;
-    index index.php index.html;
-
-    location / {
-        try_files $uri $uri/ =404;
-    }
-
-    location ~ \\.php$ {
-        fastcgi_pass app:9000;
-        include fastcgi_params;
-        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
-    }
-}
-```
-index.php:
-```
-<?php
-echo "<h1>Docker Workshop</h1>";
-try {
-    $pdo = new PDO(
-        "mysql:host=db;dbname=workshop",
-        "root",
-        "geheim"
-    );
-    echo "<p>Datenbank verbunden!</p>";
-
-} catch (Exception $e) {
-    echo "<p>DB Fehler!</p>";
-}
-```
-
-```
-docker compose up -d
-docker compose logs -f
-```
-http://localhost:8080
-
-### Persistenz:
-```
-docker compose down
-docker compose up -d
-```
-
-### Erweiterung:
-```
-adminer:
-    image: adminer
-    ports:
-      - "8081:8080"
-```
-localhost:8081
-
 # Gästebuch WebApp
 Projektstruktur:
 ```
@@ -214,6 +112,7 @@ projekt/
 │
 ├── web/
 │   └── index.php
+|   └── Dockerfile
 │
 └── db/
 ```
@@ -232,7 +131,7 @@ services:
       - app
 
   app:
-    image: php:8.2-fpm
+    build: ./web
     volumes:
       - ./web:/var/www/html
 
@@ -260,7 +159,7 @@ server {
         try_files $uri $uri/ =404;
     }
 
-    location ~ \\.php$ {
+    location ~ \.php$ {
         fastcgi_pass app:9000;
         include fastcgi_params;
         fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
@@ -268,7 +167,7 @@ server {
 }
 ```
 
-web/index.html:
+web/index.php:
 ```
 <?php
 $host = "db";
