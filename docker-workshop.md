@@ -280,3 +280,27 @@ $eintraege = $pdo->query("
 docker compose up -d
 ```
 http://localhost:8080
+
+
+# PT. 2
+```
+import os
+from flask import Flask
+import redis
+
+app = Flask(__name__)
+cache = redis.Redis(host=os.getenv("REDIS_HOST", "redis"), port=6379)
+
+@app.get("/")
+def index():
+    count = cache.incr("hits")
+    return f"Besucher: {count}\n"
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000)
+```
+
+requirements.txt:
+```
+`flask==3.0.3` · `redis==5.0.8`
+```
