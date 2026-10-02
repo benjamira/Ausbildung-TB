@@ -95,3 +95,10 @@ services:
 volumes:
   pgdata:
 ```
+
+.env
+```
+POSTGRES_DB=workshop
+POSTGRES_USER=workshop
+POSTGRES_PASSWORD=bitte-aendern
+```
